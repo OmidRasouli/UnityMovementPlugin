@@ -11,6 +11,7 @@
     <ul>
       <li>Backward</li>
       <li>Loop</li>
+      <li>More than 2 point</li>
     </ul>
   <li>Circular Movement</li>
     <ul>
