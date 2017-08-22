@@ -15,7 +15,7 @@
   <li>Circular Movement</li>
     <ul>
       <li>Arc path</li>
-      <li>{X || Y || Z} Axis</li>
+      <li>{ X || Y || Z } Axis</li>
       <li>Loop</li>
       <li>Backward</li>
     </ul>
